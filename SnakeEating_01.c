@@ -1,3 +1,4 @@
+// 适用于 VC ++ 6.0
 #include<math.h>
 #include<time.h>
 #include<conio.h>
